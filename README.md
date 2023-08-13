@@ -89,5 +89,6 @@ Recommendations to reduce customer churn rate:
 10. By implementing these recommendations, this company can improve customer retention, reduce churn rates, and build long-term loyalty, leading to sustainable growth and success.
 
     PowerBI Dashboards:
-![ecommerce_churn_analysis_Dashboard_page-0001](https://github.com/shruti1721/Customer_Churn_Analysis/assets/110741896/b7b904fa-0c9f-421e-88b5-b5a7f45f72b1)
+![Ecommerce_churn_analysis_Dashboard](https://github.com/shruti1721/Customer_Churn_Analysis/assets/110741896/236e7de2-0feb-4214-84ea-74d8367af9aa)
+
 
